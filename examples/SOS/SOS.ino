@@ -18,7 +18,7 @@ void setup()
   }
   else {  
     Serial.print("Velocity: ");
-    Serial.print(velocity);
+    Serial.print(DEFAULT_VELOCITY_MINUTES);
     Serial.print(" letters per minute\n");
   }
 }
