@@ -13,13 +13,12 @@ Atmega328 @ 16MHz  |      X       |             |            |
 
 <!-- END COMPATIBILITY TABLE -->
 
-# Dependencies
- * 
-
 ## Documentation and doxygen
 See https://itmaster.biz.ua/electronics/arduino.html
 
-Written by Serhiy Matviyenko
-MIT license, check license.txt for more information
-All text above must be included in any redistribution
+Written by Serhiy Matviyenko.
+
+MIT license, check license.txt for more information.
+
+All text above must be included in any redistribution.
 
